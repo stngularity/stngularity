@@ -1,11 +1,13 @@
-# HI, I'm Alexander
-## Information
-Hi, I'm Alexander. I live in Russia. I love space, programming. My favorite programming languages are Python and Java. 
+<h1 align=center>Hi, I'm Alexander</h1>
+<p align=center>I'm Alexander. I live in <code>Russia</code>. I love <code>space</code>, <code>programming</code> and <code>design</code>. My favorite programming languages are <code>Python</code>, <code>C++</code> and <code>Java</code>.</p>
 
-## Stats 
-![Trophy](https://github-profile-trophy.vercel.app/?username=TheStngularity&theme=onedark&no-frame=true
-)
-![User Info](https://github-readme-stats.vercel.app/api?username=TheStngularity&theme=codeSTACKr)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheStngularity&theme=codeSTACKr)
-## Contacts
-- Discord: The Singularity¹#3200
+<h1 align=center>Stats</h1>
+<p align=center>
+  <a href="https://github.com/TheStngularity">
+    <img src="https://github-profile-trophy.vercel.app/?username=TheStngularity&theme=onedark&no-frame=true" alt="trophy">
+  </a>
+  
+  <a href="https://github.com/TheStngularity">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStngularity&layout=compact&theme=codeSTACKr" alt="top-lang-use">
+  </a>
+</p>
