@@ -39,6 +39,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 - **eccrypt** *(private repo)* ❄️ - Module for EC cryptography written in Python
 - **NNHITCLBC** *(private repo)* ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
 - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) 📦 - Style and scripts pack
+- [**pyplazmix**](https://github.com/stngularity/pyplazmix) 📦 - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
 ###### [SyrDB](https://github.com/SyrDB)
 - [**SyrDB**](https://github.com/syrdb/SyrDB) ❄️ - Easy-to-use, versatile and friendly database
