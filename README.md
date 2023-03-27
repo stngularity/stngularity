@@ -32,7 +32,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 > - ❄️ = The project is frozen; 
 > - 📝 = The project is being written;
 > - ✅ = The project is done;
-> - 💬 = The project is done, updated and maintained;
+> - 💬 = The project is done, receives updates and maintained;
 > - 📦 = The project is archived.
 ###### My projects
 - **advTables.js** *(private repo)* 📝 - Advanced Tables for websites
