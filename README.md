@@ -1,4 +1,4 @@
-Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact** & **Minecraft.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, and **C++** *(currently studying)*, do **HTML** and **CSS** layout and sometimes design. I know **Russian** *as native*, and *studying* **English** and **German.** I was born on **January 20, 2010.** It's funny, but I started learning programming in 4th grade.
+Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact** & **Minecraft.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, and **C++** *(currently studying)*, do **HTML** and **CSS** layout and sometimes design. I know **Russian** *as native*, and *learning* **English** & **German.** I was born on **January 20, 2010.** It's funny, but I started learning programming in 4th grade.
 
 <a href="https://discord.com/users/813065322453925940">
   <picture>
@@ -20,6 +20,20 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
     <img src="https://user-images.githubusercontent.com/92825138/227888085-c01b9ffb-5898-47ea-963f-1435e3db3a1c.svg">
   </picture>
 </a>
+
+## Projects
+###### My projects
+- advTables.js (private repo) - Advanced Tables for websites
+- eccrypt (private repo) ❄️ - Module for EC cryptography written in Python
+- NNHITCLBC (private repo) ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
+
+###### [SyrDB](https://github.com/SyrDB)
+- SyrDB ❄️ - Easy-to-use, versatile and friendly database
+- BDSFmt ❄️ - Binary Data Storage Format
+- libraries for working with this 2 project in Python, C++ and java
+
+###### SyrDB x [Blusutils](https://github.com/Blusutils) 
+- SyrBot - Discord bot with great functionality
 
 ## My skills & tools
 ###### Tools I use
