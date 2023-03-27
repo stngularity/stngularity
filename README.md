@@ -14,6 +14,13 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   </picture>
 </a>
 
+<a href="https://vk.com/stngularity">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/92825138/228039184-0bdacacc-c4fb-4556-aa4a-39a343b1eaf6.svg">
+    <img src="https://user-images.githubusercontent.com/92825138/228038967-b0b4bcf6-2393-4db2-8c7d-13e9b9e977d2.svg">
+  </picture>
+</a>
+
 <a href="mailto:stngularity@gmail.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/92825138/227888958-cf94c3c4-01f5-4376-89e9-7bae01d70fc9.svg">
@@ -22,18 +29,24 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 </a>
 
 ## Projects
+> - ❄️ = The project is frozen; 
+> - 📝 = The project is being written;
+> - ✅ = The project is done;
+> - 💬 = The project is done, updated and maintained;
+> - 📦 = The project is archived.
 ###### My projects
-- advTables.js (private repo) - Advanced Tables for websites
-- eccrypt (private repo) ❄️ - Module for EC cryptography written in Python
-- NNHITCLBC (private repo) ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
+- **advTables.js** *(private repo)* 📝 - Advanced Tables for websites
+- **eccrypt** *(private repo)* ❄️ - Module for EC cryptography written in Python
+- **NNHITCLBC** *(private repo)* ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
+- [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) 📦 - Style and scripts pack
 
 ###### [SyrDB](https://github.com/SyrDB)
-- SyrDB ❄️ - Easy-to-use, versatile and friendly database
-- BDSFmt ❄️ - Binary Data Storage Format
-- libraries for working with this 2 project in Python, C++ and java
+- [**SyrDB**](https://github.com/syrdb/SyrDB) ❄️ - Easy-to-use, versatile and friendly database
+- [**BDSFmt**](https://github.com/syrdb/BDSFmt) ❄️ - Binary Data Storage Format
+- **libraries** for working with this 2 project in Python, C++ and java ❄️
 
 ###### SyrDB x [Blusutils](https://github.com/Blusutils) 
-- SyrBot - Discord bot with great functionality
+- [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* 📝 - Discord bot with great functionality
 
 ## My skills & tools
 ###### Tools I use
