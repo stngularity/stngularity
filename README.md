@@ -39,6 +39,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 - **eccrypt** *(private repo)* ❄️ - Module for EC cryptography written in Python
 - **NNHITCLBC** *(private repo)* ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
 - **pydisimg** *(private repo)* ❄️ - Python module for fast rank (and not only) cards generation for using in Discord bots
+- **Epsilon** *(private repo)* ❄️ - Minecraft servers plugin ("Make your server is better!") 
 - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) 📦 - Style and scripts pack
 - [**pyplazmix**](https://github.com/stngularity/pyplazmix) 📦 - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
