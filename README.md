@@ -35,7 +35,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 > - 💬 = The project is done, receives updates and maintained;
 > - 📦 = The project is archived.
 ###### My projects
-- **advTables.js** *(private repo)* 📝 - Advanced Tables for websites
+- **advTables.js** *(private repo)* ❄️ - Advanced Tables for websites
 - **eccrypt** *(private repo)* 📦 - Module for EC cryptography written in Python
 - **NNHITCLBC** *(private repo)* ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
 - **pydisimg** *(private repo)* ❄️ - Python module for fast rank (and not only) cards generation for using in Discord bots
@@ -49,7 +49,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 - **libraries** for working with this 2 project in Python, C++ and java ❄️
 
 ###### SyrDB x [Blusutils](https://github.com/Blusutils) 
-- [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* 📝 - Discord bot with great functionality
+- [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* ❄️ - Discord bot with great functionality
 
 ## My skills & tools
 ###### Tools I use
