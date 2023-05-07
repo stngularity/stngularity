@@ -1,4 +1,4 @@
-Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact** & **Minecraft.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, and **C++** *(currently studying)*, do **HTML** and **CSS** layout and sometimes design. I know **Russian** *as native*, and *learning* **English** & **German.** I was born on **January 20, 2010.** It's funny, but I started learning programming in 4th grade.
+Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact** & **Minecraft.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, **C++** *(currently studying)*, and **Kotlin** *(also currently studying), do **HTML** and **CSS** layout and sometimes design. I know **Russian** *as native*, and *learning* **English** & **German.** I was born on **January 20, 2010.** It's funny, but I started learning programming in 4th grade.
 
 <a href="https://discord.com/users/813065322453925940">
   <picture>
@@ -28,38 +28,42 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   </picture>
 </a>
 
+<br><a href="https://discord.com/users/813065322453925940"><img src="https://lanyard.cnrad.dev/api/813065322453925940?bg=282c34&borderRadius=8px&idleMessage=Drinking%20tea.%20Will%20be%20back%20soon" alt="Discord Status"/></a>
+
 ## Projects
-> - ❄️ = The project is frozen; 
-> - 📝 = The project is being written;
-> - ✅ = The project is done;
-> - 💬 = The project is done, receives updates and maintained;
-> - 📦 = The project is archived.
-###### My projects
-- **advTables.js** *(private repo)* ❄️ - Advanced Tables for websites
-- **eccrypt** *(private repo)* 📦 - Module for EC cryptography written in Python
-- **NNHITCLBC** *(private repo)* ❄️ - Neural network for highlighting the important in the text and checking for lies based on the context
-- **pydisimg** *(private repo)* ❄️ - Python module for fast rank (and not only) cards generation for using in Discord bots
-- **Epsilon** *(private repo)* ❄️ - Minecraft servers plugin ("Make your server is better!") 
-- [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) 📦 - Style and scripts pack
-- [**pyplazmix**](https://github.com/stngularity/pyplazmix) 📦 - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
+<details>
+  <summary><strong>Click to see</strong></summary>
+  
+  ###### My projects
+  - **advTables.js** *(private repo)* **`  frozen  `** - Advanced Tables for websites
+  - **eccrypt** *(private repo)* **`  archived  `** - Module for EC cryptography written in Python
+  - **NNHITCLBC** *(private repo)* **`  planned  `** - Neural network for highlighting the important in the text and checking for lies based on the context
+  - **pydisimg** *(private repo)* **`  planned  `** - Python module for fast rank (and not only) cards generation for using in Discord bots
+  - **Epsilon** *(private repo)* **`  frozen  `** - Minecraft servers plugin ("Make your server is better!") 
+  - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) **`  archived  `** - Style and scripts pack
+  - [**pyplazmix**](https://github.com/stngularity/pyplazmix) **`  archived  `** - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
-###### [SyrDB](https://github.com/SyrDB)
-- [**SyrDB**](https://github.com/syrdb/SyrDB) ❄️ - Easy-to-use, versatile and friendly database
-- [**BDSFmt**](https://github.com/syrdb/BDSFmt) ❄️ - Binary Data Storage Format
-- **libraries** for working with this 2 project in Python, C++ and java ❄️
+  ###### [SyrDB](https://github.com/SyrDB)
+  - [**SyrDB**](https://github.com/syrdb/SyrDB) **`  frozen  `** - Easy-to-use, versatile and friendly database
+  - [**BDSFmt**](https://github.com/syrdb/BDSFmt) **`  frozen  `** - Binary Data Storage Format
+  - **libraries** for working with this 2 project in Python, C++ and java **`  frozen  `**
 
-###### SyrDB x [Blusutils](https://github.com/Blusutils) 
-- [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* ❄️ - Discord bot with great functionality
+  ###### SyrDB x [Blusutils](https://github.com/Blusutils) 
+  - [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* **`  frozen  `** - Discord bot with great functionality
+</details>
 
 ## My skills & tools
 ###### Tools I use
-[![tools](https://skillicons.dev/icons?i=cmake,git,maven,figma,idea,vscode,powershell)](https://github.com/stngularity)
+[![tools](https://skillicons.dev/icons?i=git,figma,idea,vscode,powershell)](https://github.com/stngularity)
+
+###### Platforms on which I create projects (not all!)
+[![platforms](https://skillicons.dev/icons?i=discord,bots,cmake,maven)](https://github.com/stngularity)
 
 ###### Languages I use to write code or markup
-[![languages](https://skillicons.dev/icons?i=md,regex,html,css,js,python,java,cpp)](https://github.com/stngularity)
+[![languages](https://skillicons.dev/icons?i=md,regex,html,css,,js,python,java,cpp,kotlin)](https://github.com/stngularity)
 
-###### Resources and databases that I use
-[![radb](https://skillicons.dev/icons?i=stackoverflow,github,mongodb,sqlite)](https://github.com/stngularity)
+###### Websites and databases that I use
+[![webadb](https://skillicons.dev/icons?i=stackoverflow,github,,mongodb,sqlite)](https://github.com/stngularity)
 
 ## My statistics
 ###### Primary statistics
