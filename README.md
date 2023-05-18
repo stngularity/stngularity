@@ -35,21 +35,22 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   <summary><strong>Click to see</strong></summary>
   
   ###### My projects
-  - **advTables.js** *(private repo)* **`  frozen  `** - Advanced Tables for websites
-  - **eccrypt** *(private repo)* **`  archived  `** - Module for EC cryptography written in Python
-  - **NNHITCLBC** *(private repo)* **`  planned  `** - Neural network for highlighting the important in the text and checking for lies based on the context
-  - **pydisimg** *(private repo)* **`  planned  `** - Python module for fast rank (and not only) cards generation for using in Discord bots
-  - **Epsilon** *(private repo)* **`  frozen  `** - Minecraft servers plugin ("Make your server is better!") 
-  - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) **`  archived  `** - Style and scripts pack
-  - [**pyplazmix**](https://github.com/stngularity/pyplazmix) **`  archived  `** - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
+  - [**tankioapi**](https://stngularity.github.io/tankioapi/) **`supported`** - A Python written wrapper for the Tanki Online game API
+  - **advTables.js** *(private repo)* **`frozen`** - Advanced Tables for websites
+  - **eccrypt** *(private repo)* **`archived`** - Module for EC cryptography written in Python
+  - **NNHITCLBC** *(private repo)* **`planned`** - Neural network for highlighting the important in the text and checking for lies based on the context
+  - **pydisimg** *(private repo)* **`planned`** - Python module for fast rank (and not only) cards generation for using in Discord bots
+  - **Epsilon** *(private repo)* **`frozen`** - Minecraft servers plugin ("Make your server is better!") 
+  - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) **`archived`** - Style and scripts pack
+  - [**pyplazmix**](https://github.com/stngularity/pyplazmix) **`archived`** - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
   ###### [SyrDB](https://github.com/SyrDB)
-  - [**SyrDB**](https://github.com/syrdb/SyrDB) **`  frozen  `** - Easy-to-use, versatile and friendly database
-  - [**BDSFmt**](https://github.com/syrdb/BDSFmt) **`  frozen  `** - Binary Data Storage Format
-  - **libraries** for working with this 2 project in Python, C++ and java **`  frozen  `**
+  - [**SyrDB**](https://github.com/syrdb/SyrDB) **`frozen`** - Easy-to-use, versatile and friendly database
+  - [**BDSFmt**](https://github.com/syrdb/BDSFmt) **`frozen`** - Binary Data Storage Format
+  - **libraries** for working with this 2 project in Python, C++ and java **`frozen`**
 
   ###### SyrDB x [Blusutils](https://github.com/Blusutils) 
-  - [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* **`  frozen  `** - Discord bot with great functionality
+  - [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* **`frozen`** - Discord bot with great functionality
 </details>
 
 ## My skills & tools
