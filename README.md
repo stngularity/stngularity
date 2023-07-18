@@ -38,7 +38,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   - [**tankioapi**](https://stngularity.github.io/tankioapi/) **`supported`** - A Python written wrapper for the Tanki Online game API
   - **advTables.js** *(private repo)* **`frozen`** - Advanced Tables for websites
   - **eccrypt** *(private repo)* **`archived`** - Module for EC cryptography written in Python
-  - **NNHITCLBC** *(private repo)* **`planned`** - Neural network for highlighting the important in the text and checking for lies based on the context
+  - **HiLies**, *or* **NNHITCLBC** *(private repo)* **`planned`** - Neural network for highlighting the important in the text and checking for lies based on the context
   - **pydisimg** *(private repo)* **`planned`** - Python module for fast rank (and not only) cards generation for using in Discord bots
   - **Epsilon** *(private repo)* **`frozen`** - Minecraft servers plugin ("Make your server is better!") 
   - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) **`archived`** - Style and scripts pack
