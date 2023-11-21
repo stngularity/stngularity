@@ -1,4 +1,4 @@
-Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact** & **Minecraft.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, **C++** *(currently studying)*, and **Kotlin** *(also currently studying)*, do **HTML** and **CSS** layout and sometimes design. I know **Russian** *as native*, and *learning* **English** & **German.** I was born on **January 20, 2010.** It's funny, but I started learning programming in 4th grade.
+Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, *utils*, *etc.* I love programming and design, also I love to play **Genshin Impact**, **Minecraft** & **Terraria.** I'm interested in space and mathematics. I program in **Python**, **JS**, **Java**, **C++**, and **Kotlin** *(currently studying)*, do **HTML** and **CSS** markup and sometimes design. I know **Russian** *as native*, and *learning* **English** I was born on **January 20.**
 
 <a href="https://discord.com/users/813065322453925940">
   <picture>
