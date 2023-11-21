@@ -30,27 +30,36 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 
 <br><a href="https://discord.com/users/813065322453925940"><img src="https://lanyard.cnrad.dev/api/813065322453925940?bg=282c34&borderRadius=8px&idleMessage=Drinking%20tea.%20Will%20be%20back%20soon" alt="Discord Status"/></a>
 
-## Projects
+## Projects and ideas
 <details>
   <summary><strong>Click to see</strong></summary>
   
   ###### My projects
-  - [**tankioapi**](https://stngularity.github.io/tankioapi/) **`supported`** - A Python written wrapper for the Tanki Online game API
-  - **advTables.js** *(private repo)* **`frozen`** - Advanced Tables for websites
-  - **eccrypt** *(private repo)* **`archived`** - Module for EC cryptography written in Python
-  - **HiLies**, *or* **NNHITCLBC** *(private repo)* **`planned`** - Neural network for highlighting the important in the text and checking for lies based on the context
-  - **pydisimg** *(private repo)* **`planned`** - Python module for fast rank (and not only) cards generation for using in Discord bots
-  - **Epsilon** *(private repo)* **`frozen`** - Minecraft servers plugin ("Make your server is better!") 
-  - [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) **`archived`** - Style and scripts pack
-  - [**pyplazmix**](https://github.com/stngularity/pyplazmix) **`archived`** - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
+  - **`temporarily uncontained`** [**tankioapi**](https://stngularity.github.io/tankioapi/) - A Python written wrapper for the Tanki Online game API
+  - ❄️ **advTables.js** *(local repo)* - Advanced Tables for websites
+  - 📦 **eccrypt** *(local repo)* - Module for EC cryptography written in Python
+  - 🗒️ **HiLies**, *or* **NNHITCLBC** - Neural network for highlighting the important in the text and checking for lies based on the context
+  - 🗒️ **pydisimg** - Python module for fast rank (and not only) cards generation for using in Discord bots
+  - ❄️ **Epsilon** *(local repo)* - Plugin for Minecraft servers ("Make your server is better!") 
+  - 📦 [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) - Style and scripts pack
+  - 📦 [**pyplazmix**](https://github.com/stngularity/pyplazmix) - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
-  ###### [SyrDB](https://github.com/SyrDB)
-  - [**SyrDB**](https://github.com/syrdb/SyrDB) **`frozen`** - Easy-to-use, versatile and friendly database
-  - [**BDSFmt**](https://github.com/syrdb/BDSFmt) **`frozen`** - Binary Data Storage Format
-  - **libraries** for working with this 2 project in Python, C++ and java **`frozen`**
+  ###### ❄️ [SyrDB](https://github.com/SyrDB)
+  - ❄️ [**SyrDB**](https://github.com/syrdb/SyrDB) - Easy-to-use, versatile and friendly database
+  - ❄️ [**BDSFmt**](https://github.com/syrdb/BDSFmt) - Binary Data Storage Format
+  - ❄️ **libraries** for working with this 2 project in Python, C++ and java
 
-  ###### SyrDB x [Blusutils](https://github.com/Blusutils) 
-  - [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* **`frozen`** - Discord bot with great functionality
+  ###### ❄️ SyrDB x [Blusutils](https://github.com/Blusutils) 
+  - ❄️ [**SyrBot**](https://github.com/Blusutils/Syr) *(private repo)* - Discord bot with great functionality
+
+  ###### [Piema](https://github.com/piemaboot)
+  - ⚒️ [**Piema**](https://github.com/piemaboot/piema) *(private repo)* - A modern, beautiful, and open-source password manager
+  - 🗒️ **Piema Share** - Server to be able to share a recording from Piema
+  - 🗒️ **Piema Sync** - Server for synchronizing passwords between multiple devices
+  - 🗒️ **Piema Shield[S]** - Server part of Piema Shield
+  - 🗒️ **Piema d2d & Piema pairing** - Technology for transferring passwords (and other Piema entries) between two (d2d) or more (pairing) devices on the same LAN
+  - ⚒️ Some [**specifications**](https://github.com/piemaboot/specifications) of file formats & data types
+  - 🗒️ **StylizeMe** - Library for window styling on Qt6
 </details>
 
 ## My skills & tools
