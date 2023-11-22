@@ -64,7 +64,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 
   ###### [Piema](https://github.com/piemaboot)
   - ⚒️ [**Piema**](https://github.com/piemaboot/piema) *(private repo)* - A modern, beautiful, and open-source password manager
-  - 🗒️ **Piema Credentials** - Piema for servers with the ability to control via desktop/mobile version of the project
+  - 🗒️ **Piema Server** - Piema for servers with the ability to control via desktop/mobile version of the project
   - 🗒️ **Piema Share** - Technology (client & server) to securely share records from Piema between multiple clients
   - 🗒️ **Piema Sync** - Technology (client & server) to synchronization records from Piema between multiple devices
   - 🗒️ **Piema Shield** - System of warnings and recommendations for accounts security
