@@ -31,11 +31,21 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 <br><a href="https://discord.com/users/813065322453925940"><img src="https://lanyard.cnrad.dev/api/813065322453925940?bg=282c34&borderRadius=8px&idleMessage=Drinking%20tea.%20Will%20be%20back%20soon" alt="Discord Status"/></a>
 
 ## Projects and ideas
+> [!TIP]
+> The following designations may be found in the list of projects and ideas:
+> - ✅ - The project is complete and doesn't require updates
+> - 📝 - The project is maintained (updated)
+> - 📑 - The project is temporarily uncontained
+> - ⚒️ - The project is in development
+> - ❄️ - The project is frozen
+> - 🗒️ - The project is planned
+> - 📦 - Project abandoned (in the archive)
+
 <details>
   <summary><strong>Click to see</strong></summary>
   
   ###### My projects
-  - **`temporarily uncontained`** [**tankioapi**](https://stngularity.github.io/tankioapi/) - A Python written wrapper for the Tanki Online game API
+  - 📑 [**tankioapi**](https://stngularity.github.io/tankioapi/) - A Python written wrapper for the Tanki Online game API
   - ❄️ **advTables.js** *(local repo)* - Advanced Tables for websites
   - 📦 **eccrypt** *(local repo)* - Module for EC cryptography written in Python
   - 🗒️ **HiLies**, *or* **NNHITCLBC** - Neural network for highlighting the important in the text and checking for lies based on the context
@@ -54,12 +64,13 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 
   ###### [Piema](https://github.com/piemaboot)
   - ⚒️ [**Piema**](https://github.com/piemaboot/piema) *(private repo)* - A modern, beautiful, and open-source password manager
-  - 🗒️ **Piema Share** - Server to be able to share a recording from Piema
-  - 🗒️ **Piema Sync** - Server for synchronizing passwords between multiple devices
-  - 🗒️ **Piema Shield[S]** - Server part of Piema Shield
-  - 🗒️ **Piema d2d & Piema pairing** - Technology for transferring passwords (and other Piema entries) between two (d2d) or more (pairing) devices on the same LAN
+  - 🗒️ **Piema Credentials** - Piema for servers with the ability to control via desktop/mobile version of the project
+  - 🗒️ **Piema Share** - Technology (client & server) to securely share records from Piema between multiple clients
+  - 🗒️ **Piema Sync** - Technology (client & server) to synchronization records from Piema between multiple devices
+  - 🗒️ **Piema Shield** - System of warnings and recommendations for accounts security
+  - 🗒️ **Piema Pairing** - Technology for synchronizing passwords (and other Piema entries) between two or more devices on the same LAN
   - ⚒️ Some [**specifications**](https://github.com/piemaboot/specifications) of file formats & data types
-  - 🗒️ **StylizeMe** - Library for window styling on Qt6
+  - 🗒️ **Qxtra** - Library with additional functionality for Qt6 (e.g. creating noise or window backdrop blur)
 </details>
 
 ## My skills & tools
