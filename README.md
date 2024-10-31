@@ -34,8 +34,8 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
 > [!TIP]
 > The following designations may be found in the list of projects and ideas:
 > - ✅ - The project is complete and doesn't require updates
-> - 📝 - The project is maintained (updated)
-> - 📑 - The project is temporarily uncontained
+> - 📝 - The project is maintained
+> - 📑 - The project is temporarily unmaintained
 > - ⚒️ - The project is in development
 > - ❄️ - The project is frozen
 > - 🗒️ - The project is planned
@@ -49,12 +49,12 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   - ❄️ **advTables.js** *(local repo)* - Advanced Tables for websites
 <!-- - 📦 **eccrypt** *(local repo)* - Module for EC cryptography written in Python
   - 🗒️ **HiLies**, *or* **NNHITCLBC** - Neural network for highlighting the important in the text and checking for lies based on the context -->
-  - 🗒️ **pydisimg** - Python module for fast rank (and not only) cards generation for using in Discord bots
-  - ❄️ **Epsilon** *(local repo)* - Plugin for Minecraft servers ("Make your server is better!") 
+<!--  - 🗒️ **pydisimg** - Python module for fast rank (and not only) cards generation for using in Discord bots -->
+<!--  - ❄️ **Epsilon** *(local repo)* - Plugin for Minecraft servers ("Make your server is better!") -->
   - 📦 [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) - Style and scripts pack
   - 📦 [**pyplazmix**](https://github.com/stngularity/pyplazmix) - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
 
-  ###### ❄️ [SyrDB](https://github.com/SyrDB)
+<!--  ###### ❄️ [SyrDB](https://github.com/SyrDB)
   - ❄️ [**SyrDB**](https://github.com/syrdb/SyrDB) - Easy-to-use, versatile and friendly database
   - ❄️ [**BDSFmt**](https://github.com/syrdb/BDSFmt) - Binary Data Storage Format
   - ❄️ **libraries** for working with this 2 project in Python, C++ and java
@@ -70,7 +70,7 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   - 🗒️ **Piema Shield** - System of warnings and recommendations for accounts security
   - 🗒️ **Piema Pairing** - Technology for synchronizing passwords (and other Piema entries) between two or more devices on the same LAN
   - ⚒️ Some [**specifications**](https://github.com/piemaboot/specifications) of file formats & data types
-  - 🗒️ **Qxtra** - Library with additional functionality for Qt6 (e.g. creating noise or window backdrop blur)
+  - 🗒️ **Qxtra** - Library with additional functionality for Qt6 (e.g. creating noise or window backdrop blur) -->
 </details>
 
 ## My skills & tools
