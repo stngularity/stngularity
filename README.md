@@ -48,8 +48,8 @@ Hi everyone, I'm **Alexander.** I live in **Russia** and I develop some *bots*, 
   - 📑 [**tankioapi**](https://stngularity.github.io/tankioapi/) - A Python written wrapper for the Tanki Online game API
   - ❄️ **advTables.js** *(local repo)* - Advanced Tables for websites
 <!-- - 📦 **eccrypt** *(local repo)* - Module for EC cryptography written in Python
-  - 🗒️ **HiLies**, *or* **NNHITCLBC** - Neural network for highlighting the important in the text and checking for lies based on the context -->
-<!-- - 🗒️ **pydisimg** - Python module for fast rank (and not only) cards generation for using in Discord bots
+  - 🗒️ **HiLies**, *or* **NNHITCLBC** - Neural network for highlighting the important in the text and checking for lies based on the context
+  - 🗒️ **pydisimg** - Python module for fast rank (and not only) cards generation for using in Discord bots
   - ❄️ **Epsilon** *(local repo)* - Plugin for Minecraft servers ("Make your server is better!") -->
   - 📦 [**JSAndCSSPack**](https://github.com/stngularity/JSAndCSSPack) - Style and scripts pack
   - 📦 [**pyplazmix**](https://github.com/stngularity/pyplazmix) - A python wrapper for PlazmixAPI *([!] Plazmix has closed)*
