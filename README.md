@@ -1,8 +1,8 @@
 # 👋 Hi everyone! 
 It's my GitHub account and at the same time a warehouse of junk. Here's a little bit of information about me:
-- ✨ I'm **Alexander** — a nameless programmer and designer from **🇷🇺 Russia**.
+- ✨ I'm **Alexander** — a nameless programmer and designer from **Russia**.
 - 🎮 Sometimes I play games like **Honkai: Star Rail**, **Minecraft** or **Terraria**.
-- 🌍 I can **speak** 🇷🇺 Russian and **understand** a little 🇬🇧 English.
+- 🌍 I can **speak** Russian and **understand** a little English.
 
 ## 💻 My skills
 #### Tools
