@@ -75,13 +75,15 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 7 mins        ████████████████░░░░░░░░░   64.06 % 
+JavaScript               1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.83 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
