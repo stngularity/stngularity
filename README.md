@@ -75,17 +75,17 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   11 hrs 12 mins      ██████████████████░░░░░░░   73.03 % 
-Text                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-SQL                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Python                   11 hrs 9 mins       ██████████████████░░░░░░░   73.72 % 
+SQL                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Text                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
