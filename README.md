@@ -75,17 +75,17 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-CMake                    48 mins             █████████████████████░░░░   85.53 % 
-C++                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CMake                    48 mins             █████████░░░░░░░░░░░░░░░░   35.15 % 
+Markdown                 42 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Python                   36 mins             ███████░░░░░░░░░░░░░░░░░░   26.89 % 
+C++                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
