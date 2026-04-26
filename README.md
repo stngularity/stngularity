@@ -75,15 +75,15 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               1 hr 33 mins        ██████████████████████░░░   86.09 % 
-CSS                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JavaScript               1 hr 33 mins        █████████████████████░░░░   84.86 % 
+CSS                      13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  1 hr 48 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 48 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 
