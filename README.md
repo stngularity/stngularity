@@ -54,18 +54,18 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
   > 📦 **Archived** on **Aug 21, 2022** due to my disinterest
 
 ## ⌨️ My setup
-| Component      | Name                           |
-| -------------- | ------------------------------ |
-| Motherboard    | `ASRock B550M Pro4`            |
-| CPU            | `AMD Ryzen 5 5500`             |
-| GPU            | `KFA2 GeForce RTX 4060`        |
-| RAM            | 4x `Kingston Fury 8GB`         |
-| 🖥️ Monitor     | `ARDOR GAMING PORTAL AF24H1`   |
-| ⌨️ Keyboard    | `ARDOR GAMING Immortality TKL` |
-| 🖱️ Mouse       | `ARDOR GAMING Prime PRO`       |
-| 🎙️ Microphone  | `Fifine A8`                    |
-| 🎧 Headphones  | `ARDOR GAMING Edge`            |
-| 📱 Phone       | `POCO F6 256 GB`               |
+| Component      | Name                                     |
+| -------------- | ---------------------------------------- |
+| Motherboard    | `ASRock B550M Pro4`                      |
+| CPU            | `AMD Ryzen 5 5500`                       |
+| GPU            | `Gigabyte GAMING OC GeForce RTX 4060 Ti` |
+| RAM            | 4x `Kingston Fury 8GB`                   |
+| 🖥️ Monitor     | `ARDOR GAMING PORTAL AF24H1`            |
+| ⌨️ Keyboard    | `ARDOR GAMING Immortality TKL`          |
+| 🖱️ Mouse       | `ARDOR GAMING Prime PRO`                |
+| 🎙️ Microphone  | `Fifine A8`                             |
+| 🎧 Headphones  | `ARDOR GAMING Edge`                     |
+| 📱 Phone       | `POCO F6 256 GB`                        |
 
 ## 🕑 Wakatime
 <!--START_SECTION:waka-->
