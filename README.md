@@ -69,21 +69,5 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 
 ## 🕑 Wakatime
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-YAML                     33 mins             █████████████████████████   98.83 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-
-🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
