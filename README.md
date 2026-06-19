@@ -75,14 +75,14 @@ It's my GitHub account and at the same time a warehouse of junk. Here's a little
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-HTML                     39 mins             ██████████████░░░░░░░░░░░   54.02 % 
-CSS                      34 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
+HTML                     1 hr 1 min          ████████████████░░░░░░░░░   64.11 % 
+CSS                      34 mins             █████████░░░░░░░░░░░░░░░░   35.89 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 36 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
